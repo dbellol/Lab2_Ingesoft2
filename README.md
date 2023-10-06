@@ -1,5 +1,3 @@
-# IngeSoft2_LAB2_Frameworks_fixed_version
-
 # *Laboratorio 2 - Frameworks*
 Herramientas usadas:
 
